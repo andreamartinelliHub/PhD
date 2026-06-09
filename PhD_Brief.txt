@@ -1,0 +1,1 @@
+Starting from my master thesis, where robustness and stability for DL models are discussed, my interest would be explore further the concept of margin of a Neural Network classifier, which indicates its classification strength in a Lipschitz-continuos NN. This type of continuity allows to link perturbations in the input with possible misclassification of the respective output.
