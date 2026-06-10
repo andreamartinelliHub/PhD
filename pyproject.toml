@@ -1,7 +1,7 @@
 [project]
 name = "phd"
 version = "0.1.0"
-description = "Add your description here"
+description = "Andrea Martinelli codebase for an eventual PhD"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
