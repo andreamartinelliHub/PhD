@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Ignore local user machine configs
+src/expregistry/config/user/*
+!src/expregistry/config/user/.gitkeep
+
+# Ignore data files inside self-contained datasets
+src/expregistry/datasets/**/files/

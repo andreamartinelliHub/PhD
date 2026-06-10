@@ -1,0 +1,7 @@
+defaults:
+  - user: default  # Default fallback path configuration
+  - _self_
+
+experiment_name: "phd_run_01"
+batch_size: 32
+lr: 1e-3

@@ -1,7 +1,7 @@
 [project]
-name = "backend"
+name = "expregistry"
 version = "0.1.0"
-description = "Add your description here"
+description = "Experiment Registry, trying to keep them clean, sorted and fast."
 readme = "README.md"
 authors = [
     { name = "anmartinelli", email = "anmartinelli@fbk.eu" }
